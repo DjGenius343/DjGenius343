@@ -11,5 +11,6 @@ DjGenius343/DjGenius343 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://whatsapp.com/channel/0029Vas1LCm9mrGlLa5L4Z0z" style="text-decoration: none;">
-    <img src="[https://pbs.twimg.com/profile_banners/1238409770488532992/1584119388/1500x500](https://x.com/yadarashid1?s=21)" alt="My Photo" style="width: 200px; height: auto; border: 2px solid #000; border-radius: 10px;">
+    <img src="https://images.app.goo.gl/jYSRCiqM9GFFqGoF9
+" alt="My Photo" style="width: 200px; height: auto; border: 2px solid #000; border-radius: 10px;">
 </a>
