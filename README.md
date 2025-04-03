@@ -12,5 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <a href="https://whatsapp.com/channel/0029Vas1LCm9mrGlLa5L4Z0z" style="text-decoration: none;">
     <img src="https://images.app.goo.gl/jYSRCiqM9GFFqGoF9
-" alt="My Photo" style="width: 200px; height: auto; border: 2px solid #000; border-radius: 10px;">
+" alt="
+Click here to reach my WhatsApp " style="width: 200px; height: auto; border: 2px solid #000; border-radius: 10px;">
 </a>
